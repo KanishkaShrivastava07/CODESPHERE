@@ -52,9 +52,3 @@ CodeSphere is a simple **Java-based interactive compiler and runner** built for 
    ```bash
    java CodeSphere
    ```
-
-
-
-
-B.Tech CSE | Java Developer
-📧 [shrivastavakanishka06@gmail.com](mailto:shrivastavakanishka06@gmail.com)
